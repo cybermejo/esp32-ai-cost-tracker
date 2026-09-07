@@ -1,3 +1,5 @@
+![AI Cost Tracker](intro.jpeg)
+
 # AI Cost Tracker
 
 A handheld AI-spend monitor for the **Waveshare ESP32-S3-Touch-AMOLED-1.8** — a 7-day model cost distribution pie, a daily-cost list, and a per-model drill-down for every day, in a warm cream / dark-navy two-theme UI with cached-slide transitions, an idle auto-dim, and a pull-down version drawer.
